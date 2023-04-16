@@ -10,4 +10,5 @@
 #### Чек-лист на стул с курсов по обучению
 <kbd>![](images/check-list-chair.JPG)</kbd>
 
-
+#### Чек-лист на строку поиска Wildberries с курсов по обучению
+<kbd>![](images/Screenshot_1.png)</kbd>
