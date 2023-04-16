@@ -7,4 +7,7 @@
 #### Чек-лист 3
 <kbd>![](images/check-list_3.jpg)</kbd>
 
+#### Чек-лист на стул с курсов по обучению
+<kbd>![](images/check-list-chair.JPG)</kbd>
+
 
