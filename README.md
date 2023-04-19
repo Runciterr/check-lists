@@ -1,3 +1,6 @@
+#### Чек-лист 
+<kbd>![](images/TestIT.xlsx)</kbd>
+
 #### Чек-лист 1
 <kbd>![](images/check-list_1.jpg)</kbd>
 
