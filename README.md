@@ -1,5 +1,4 @@
 #### [Чек-лист (выгрузка из testIT](https://github.com/Runciterr/check-lists/blob/main/images/TestIT.xlsx)
-<kbd>![](images/TestIT.xlsx)</kbd>
 
 #### Чек-лист 1
 <kbd>![](images/check-list_1.jpg)</kbd>
